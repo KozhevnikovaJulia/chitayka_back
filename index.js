@@ -11,14 +11,14 @@ app.use(express.json({ extended: true }));
 app.use('/test', testRouter);
 app.use('/pictures', picturesRouter);
 
-const mongoose = require('mongoose');
+// const mongoose = require('mongoose');
 
 async function start() {
   try {
-    await mongoose.connect('mongodb://localhost/chitayka', {
-      useNewUrlParser: true,
-      useUnifiedTopology: true      
-    });
+    // await mongoose.connect('mongodb://localhost/chitayka', {
+    //   useNewUrlParser: true,
+    //   useUnifiedTopology: true      
+    // });
 
 
 

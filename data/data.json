@@ -1,4 +1,16 @@
-{ "word": "Заяц", "level": "2", "img": "./ImagesChitayka/Заяц.jpg", "read": false }
+[
+    { "word": "Заяц", "level": "2", "img": "./ImagesChitayka/Заяц.jpg", "read": false },
+    { "word": "Арбуз", "level": "2", "img": "./ImagesChitayka/Арбуз.jpg", "read": false },
+    { "word": "Белка", "level": "2", "img": "./ImagesChitayka/Белка.jpg", "read": false },
+    { "word": "Жираф", "level": "2", "img": "./ImagesChitayka/Жираф.png", "read": false },
+    { "word": "Корова", "level": "3", "img": "./ImagesChitayka/Корова.jpg", "read": false },
+    { "word": "Лев", "level": "1", "img": "./ImagesChitayka/Лев.jpg", "read": false },
+    { "word": "Медведь", "level": "2", "img": "./ImagesChitayka/Медведь.jpg", "read": false },
+    { "word": "Панда", "level": "2", "img": "./ImagesChitayka/Панда.jpg", "read": false },
+    { "word": "Печенье", "level": "3", "img": "./ImagesChitayka/Печенье.png", "read": false },
+    { "word": "Слон", "level": "1", "img": "./ImagesChitayka/Слон.png", "read": false },
+    { "word": "Сова", "level": "2", "img": "./ImagesChitayka/Сова.jpg", "read": false }
+]
 
 
 

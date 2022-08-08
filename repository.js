@@ -1,7 +1,8 @@
-const Picture = require('./models/pictures');
+// const Picture = require('./models/pictures');
+const data = require('./data/data.json');
 
 const getAllPicturies = () => {
-  return Picture.find();
+  return data;
 };
 // const findPatientById = patientId => {
 //   return Patient.findOne({ _id: patientId });
