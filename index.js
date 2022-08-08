@@ -15,11 +15,13 @@ const mongoose = require('mongoose');
 
 async function start() {
   try {
-    await mongoose.connect(config.get('mongoUri'), {
+    await mongoose.connect('mongodb://localhost/chitayka', {
       useNewUrlParser: true,
-      useUnifiedTopology: true
-      
+      useUnifiedTopology: true      
     });
+
+
+
     app.listen(port, () => console.log(`App has been started on port ${port}...`));
   } catch (e) {
     console.log('Server Error', e.message);

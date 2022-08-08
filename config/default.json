@@ -1,5 +1,0 @@
-{
-  "port": 5555,
-  "mongoUri": "mongodb://localhost/chitayka",
-  "baseUrl": "http://localhost:5555"
-}
