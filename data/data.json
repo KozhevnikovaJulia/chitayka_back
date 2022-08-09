@@ -1,18 +1,22 @@
 [
-    { "word": "Заяц", "level": 2, "img": "./ImagesChitayka/Заяц.jpg", "read": false },
-    { "word": "Арбуз", "level": 2, "img": "./ImagesChitayka/Арбуз.jpg", "read": false },
-    { "word": "Белка", "level": 2, "img": "./ImagesChitayka/Белка.jpg", "read": false },
-    { "word": "Жираф", "level": 2, "img": "./ImagesChitayka/Жираф.png", "read": false },
-    { "word": "Корова", "level": 3, "img": "./ImagesChitayka/Корова.jpg", "read": false },
-    { "word": "Лев", "level": 1, "img": "./ImagesChitayka/Лев.jpg", "read": false },
-    { "word": "Медведь", "level": 2, "img": "./ImagesChitayka/Медведь.jpg", "read": false },
-    { "word": "Панда", "level": 2, "img": "./ImagesChitayka/Панда.jpg", "read": false },
-    { "word": "Печенье", "level": 3, "img": "./ImagesChitayka/Печенье.png", "read": false },
-    { "word": "Слон", "level": 1, "img": "./ImagesChitayka/Слон.png", "read": false },
-    { "word": "Сова", "level": 2, "img": "./ImagesChitayka/Сова.jpg", "read": false }
+    { "word": "Заяц", "level": 2, "img": "https://www.ejin.ru/wp-content/uploads/2017/11/tvgcutedisneycharactersthumper-3-571x800.jpg", "read": false },
+    { "word": "Кот", "level": 2, "img": "https://www.ejin.ru/wp-content/uploads/2017/11/kids_image_movies_116983858_cat-3-682x800.jpg", "read": false },
+    { "word": "Белка", "level": 2, "img": "https://www.ejin.ru/wp-content/uploads/2017/11/belochka-1.jpg", "read": false },
+    { "word": "Жираф", "level": 2, "img": "https://www.ejin.ru/wp-content/uploads/2017/11/1496930435_57-1.jpg", "read": false },
+    { "word": "Овечка", "level": 3, "img": "https://www.ejin.ru/wp-content/uploads/2017/11/61yfsmidgbl._sy450_-2.jpg", "read": false },
+    { "word": "Лев", "level": 1, "img": "https://www.ejin.ru/wp-content/uploads/2017/11/lion-picture.jpg", "read": false },
+    { "word": "Медведь", "level": 2, "img": "https://www.ejin.ru/wp-content/uploads/2017/11/medved-kartinki-dlja-detej-medvezhonok-kartinki-dlja-detej-1-1.jpg", "read": false },
+    { "word": "Осел", "level": 2, "img": "https://www.ejin.ru/wp-content/uploads/2017/11/19119571_l-800x585-3-800x585.jpg", "read": false },
+    { "word": "Собака", "level": 3, "img": "https://www.ejin.ru/wp-content/uploads/2017/11/shhenok_10-2-800x618.png", "read": false },
+    { "word": "Коза", "level": 1, "img": "https://www.ejin.ru/wp-content/uploads/2017/11/330571-14102f9535391-3-645x800.jpg", "read": false },
+    { "word": "Утка", "level": 2, "img": "https://www.ejin.ru/wp-content/uploads/2017/11/979-7-3.jpg", "read": false },
+    { "word": "Енот", "level": 2, "img": "https://www.ejin.ru/wp-content/uploads/2017/11/9de1daa07f0fbc4ca994e32f88a673b4-1-668x800.jpg", "read": false },
+    { "word": "Лиса", "level": 2, "img": "https://www.ejin.ru/wp-content/uploads/2017/11/ed2ec93e1a73107afb2586cf430d1650-1.jpg", "read": false },
+    { "word": "Еж", "level": 1, "img": "https://www.ejin.ru/wp-content/uploads/2017/11/ezhik-1-776x800.jpg", "read": false },
+    { "word": "Петух", "level": 2, "img": "https://www.ejin.ru/wp-content/uploads/2017/11/ptichiy-dvor-3god5-3-800x566.jpg", "read": false },
+    { "word": "Волк", "level": 1, "img": "https://www.ejin.ru/wp-content/uploads/2017/11/262_cartoon_wolf_by_thejackreacher-d6cb9hu-1.jpg", "read": false }
+
 ]
-
-
 
 
 

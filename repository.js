@@ -4,6 +4,13 @@ const data = require('./data/data.json');
 const getAllPicturies = () => {
   return data;
 };
+
+const showImages = (data) => {
+  for (let  i=0; i< data.length; i++) {
+const img = document.createElement('img')
+img.src = './ImagesChitayka/'+data[i].img
+  }
+}
 // const findPatientById = patientId => {
 //   return Patient.findOne({ _id: patientId });
 // };
